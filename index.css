@@ -297,11 +297,6 @@ body {
 #footer a {
     color:rgb(50, 50, 50) ;
 }
-#particles-js {
-    position:fixed;
-    width:100vw;
-    height:100vh;
-}
 ::-webkit-scrollbar {
     width:5px;
     height:5px;
